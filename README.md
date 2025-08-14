@@ -6,6 +6,8 @@ employee_attrition_prediction/
 │   ├── raw/
 │   │   └── WA_Fn-UseC_-HR-Employee-Attrition.csv
 │
+
+
 │
 ├── 📁 sql/
 │   ├── 01_data_exploration.sql       # Queries for initial understanding
